@@ -1,5 +1,7 @@
 ### Hi there 👋
 ## I am Muhammad Zaryab Rafique
+*Change your work way, Every problem has a solution. -- Zaryab*
+
 
 
 - 🔭 I’m currently working on **Blockchain, Android (Kotlin) and Jetpack Compose**
