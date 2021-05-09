@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am Muhammad Zaryab Rafique
-*Change your work way, Every problem has a solution. -- Zaryab*
+*Change your work way, Every problem has a solution -- Zaryab*
 
 
 
