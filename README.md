@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Muhammad Zaryab Rafique
+## <center> I am Muhammad Zaryab Rafique</center>
 *Change your work way, Every problem has a solution -- Zaryab*
 
 
