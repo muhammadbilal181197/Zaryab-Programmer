@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 style="margin-left:50%;">I am Muhammad Zaryab Rafique</h1>
+<h1 align="center">I am Muhammad Zaryab Rafique</h1>
 *Change your work way, Every problem has a solution -- Zaryab*
 
 
