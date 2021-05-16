@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">I am Muhammad Zaryab Rafique</h1>
-<p align="center"> <b>Change your work way, Every problem has a solution -- Zaryab<b> </p>
+<p align="center"> <b><i>Change your work way, Every problem has a solution -- Zaryab</i><b> </p>
 
 
 - 🔭 I’m currently working on **Blockchain, Android (Kotlin) and Jetpack Compose**
