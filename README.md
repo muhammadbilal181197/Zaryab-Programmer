@@ -17,7 +17,7 @@
 
 ### Connect me at here
 
-<span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a>
+<span><a href="https://www.linkedin.com/in/zaryab-programmer/" target="_blank" ><img src="images/linkedin.png" width="30" height="30" /></a>
 &nbsp;
 <a href="https://web.facebook.com/Zaryab.Programmer/" ><img src="images/Facebook-logo.png" width="30" height="30" /></a>
 &nbsp;
