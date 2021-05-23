@@ -31,6 +31,6 @@
 ## Here My Github Stats
 
 <span> ![Zaryab's github stats](https://github-readme-stats.vercel.app/api?username=Zaryab-Programmer&theme=tokyonight&show_icons=true&count_private=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-Programmer)</span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-Programmer&layout=compact&theme=tokyonight)</span>
 
 
