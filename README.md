@@ -17,7 +17,7 @@
 
 ### Connect me at here
 
-<span><a href="https://www.linkedin.com/in/zaryab-programmer/" target="_blank" ><img src="images/linkedin.png" width="30" height="30" /></a>
+<span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a>
 &nbsp;
 <a href="https://web.facebook.com/Zaryab.Programmer/" ><img src="images/Facebook-logo.png" width="30" height="30" /></a>
 &nbsp;
@@ -30,7 +30,7 @@
 
 ## Here My Github Stats
 
-<span> <img src="https://github-readme-stats.vercel.app/api?username=Zaryab-Programmer&show_icons=true" alt="Zaryab-Programmer" /> </span>
+<span> ![Zaryab's github stats](https://github-readme-stats.vercel.app/api?username=Zaryab-Programmer&theme=tokyonight&show_icons=true&count_private=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-Programmer)</span>
 
 
