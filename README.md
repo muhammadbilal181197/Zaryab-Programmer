@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Blockchain, Android (Kotlin) and Jetpack Compose**
+- 🔭 I’m currently working on **BLOCKCHAIN, ANDROID (KOTLIN) and Jetpack Compose**
 
 - 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
 
