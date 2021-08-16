@@ -27,6 +27,8 @@
 <span>
 
 <br>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaryab-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="Zaryab-Programmer" /> </p>
 
 ## Muhammad Zaryab Rafique's Github Stats
 
