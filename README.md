@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **BLOCKCHAIN, Smart Contract, ANDROID (KOTLIN) and JETPACK COMPOSE**
+- 🔭 I’m currently working on **BLOCKCHAIN, SMART CONTRACTS, ANDROID (KOTLIN) and JETPACK COMPOSE**
 
 - 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
 
