@@ -33,7 +33,7 @@
 ## Muhammad Zaryab Rafique's Github Stats
 
 <span> ![Zaryab's github stats](https://github-readme-stats.vercel.app/api?username=Zaryab-Programmer&theme=tokyonight&show_icons=true&count_private=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-Programmer&theme=tokyonight&show=solidity)</span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-Programmer&theme=tokyonight)</span>
 
 
 ### Top Tools & Languages <br>
