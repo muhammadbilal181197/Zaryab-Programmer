@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **BLOCKCHAIN, SOLIDITY - SMART CONTRACTS, RUST, ANDROID (KOTLIN) & JETPACK COMPOSE**
+- 🔭 I’m currently working on **BLOCKCHAIN, SOLIDITY - SMART CONTRACTS, RUST - SOLANA, ANDROID (KOTLIN) & JETPACK COMPOSE**
 
 - 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
 
