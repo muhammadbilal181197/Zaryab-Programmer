@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **BLOCKCHAIN DEVELOPER**
 
-- 👨‍💻 Check my website : https://mzaryabrafique.live/
+- 👨‍💻 Check my website : https://mzaryabrafique.live
 
 
 <br>
