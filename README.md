@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
 
-- 🤝 I’m looking for help with **BLOCKCHAIN DEVELOPER**
+- 🤝 Teach **BLOCKCHAIN DEVELOPMENT** to newbie
 
 - 👨‍💻 Check my website : https://mzaryabrafique.live
 
