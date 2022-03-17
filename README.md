@@ -1,7 +1,7 @@
 ### Hi Devs 👋
-<h1 align="center">I am Muhammad Zaryab Rafique <br>
-  <sub>Blockchain Engineer</sub></p>
+<h1 align="center">I am Muhammad Zaryab Rafique
 </h1>
+<sub>Blockchain Engineer</sub>
 
 <p align="center"> <b><i>Change your work way, Every problem has a solution -- Zaryab</i><b> </p>
 
