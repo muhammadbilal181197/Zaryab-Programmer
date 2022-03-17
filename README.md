@@ -1,6 +1,8 @@
 ### Hi Devs 👋
-<h1 align="center">I am Muhammad Zaryab Rafique</h1>
+<h1 align="center">I am Muhammad Zaryab Rafique <br>
 <p align="center">Blockchain Engineer</p>
+</h1>
+
 <p align="center"> <b><i>Change your work way, Every problem has a solution -- Zaryab</i><b> </p>
 
 <br>
