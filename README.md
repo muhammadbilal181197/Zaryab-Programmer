@@ -1,11 +1,10 @@
 ### Hi Devs 👋
-<h1 align="center">I am Muhammad Zaryab Rafique
-</h1>
-<sub>Blockchain Engineer</sub>
+<h1 align="center">I am Muhammad Zaryab Rafique</h1>
 
 <p align="center"> <b><i>Change your work way, Every problem has a solution -- Zaryab</i><b> </p>
-
 <br>
+  
+- 🚀 Blockchain Engineer
 
 - 🔭 I’m currently working on **BLOCKCHAIN, SOLIDITY - SMART CONTRACTS, SOLANA - RUST, ANDROID (KOTLIN, JAVA) JETPACK COMPOSE**
 
