@@ -15,8 +15,6 @@
 - 👨‍💻 Check my website : https://mzaryabrafique.live
 
 
-<br>
-
 ### Connect me at here
 
 <span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a>
