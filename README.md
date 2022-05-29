@@ -6,7 +6,7 @@
   
 - 🚀 Blockchain Engineer
 
-- 🔭 I’m currently working on **BLOCKCHAIN, SOLIDITY - SMART CONTRACTS, SOLANA - RUST, ANDROID (KOTLIN, JAVA) JETPACK COMPOSE and React - Node.Js**
+- 🔭 I’m currently working on **BLOCKCHAIN, ETHEREUM - SOLIDITY, SOLANA - RUST, ANDROID and React - Node.Js**
 
 - 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
 
