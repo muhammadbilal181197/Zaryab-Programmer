@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **BLOCKCHAIN, ETHEREUM - SOLIDITY, SOLANA - RUST, ANDROID and React - Node.Js**
 
-- 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
+- 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION and RUST**
 
 - 🤝 Teach **BLOCKCHAIN DEVELOPMENT** to newbie
 
