@@ -6,7 +6,7 @@
   
 - 🚀 Blockchain Engineer
 
-- 🔭 I’m currently working on **BLOCKCHAIN, ETHEREUM - SOLIDITY, SOLANA - RUST, ANDROID and REACT - NODE JS**
+- 🔭 I’m currently working on **BLOCKCHAIN, ETHEREUM - SOLIDITY, SOLANA - RUST, Polkadot, Substrate ANDROID**
 
 - 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION and RUST**
 
